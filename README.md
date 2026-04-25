@@ -4,6 +4,8 @@
 
 [日記](https://github.com/c-yoshiteru/Yoshiteru_note/tree/main/%E6%97%A5%E8%A8%98-2026)
 
+こっちに書いてみよ
+
 ---
 #### 楽器は人とやってなんぼ　ですぜ(*´▽｀*)
 
