@@ -173,6 +173,12 @@
 
 [https://youtu.be/cRUVid4oGwU?si=T6GNSsObCDCi2QIg]
 
+---
+
+これいいですよ～　もう一回　みましょうよ～
+(*´ω｀)
+
+[ヌーソロジーとは何か。part 1](https://youtu.be/c0N1E0baHrI?si=4NeSnHgtjKvyYM-s)
 
 
 　
