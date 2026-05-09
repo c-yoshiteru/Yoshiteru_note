@@ -9,4 +9,4 @@ notebookLMにやってもらった。
 
 今回のもいーよー(*´ω｀)
 
-[空間意識への道](空間意識への道 - NotebookLM https://share.google/6evJjZisPFlvjXDt3)
+[空間意識への道](空間意識への道NotebookLM https://share.google/6evJjZisPFlvjXDt3)
