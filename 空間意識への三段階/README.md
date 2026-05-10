@@ -12,7 +12,11 @@ notebookLMにやってもらった。
 
 今回のもいーよー(*´ω｀)
 
-[空間意識への道](https://share.google/6evJjZisPFlvjXDt3)
+下の青リンクから行ってみてねー
+
+---
+# *[空間意識への道](https://share.google/6evJjZisPFlvjXDt3)*
+---
 
 はてさて　
 
