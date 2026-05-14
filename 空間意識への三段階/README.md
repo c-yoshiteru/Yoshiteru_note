@@ -93,9 +93,15 @@ notebookLMにやってもらった。
 
 ---
 
+youtubeに出てきまして。
 
+これはGemini渾身のおすすめだなと、察し。
 
+どうぞー(*´ω｀)
 
+[波の物理学](https://youtu.be/4iVTYgcsaf4?si=sx5LztDI152jhw13)
+
+---
 
 
 
