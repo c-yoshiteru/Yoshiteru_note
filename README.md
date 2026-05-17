@@ -14,6 +14,8 @@ notebookLMです。
 
 [モノは複素２次元平面-そして｢後ろ｣を取り戻す](モノは複素２次元平面-そして｢後ろ｣を取り戻す)
 
+---
+
 [日記](https://github.com/c-yoshiteru/Yoshiteru_note/tree/main/%E6%97%A5%E8%A8%98-2026)
 
 日記ですー
