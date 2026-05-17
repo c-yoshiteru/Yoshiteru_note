@@ -8,7 +8,7 @@ notebookLMで作ってみました。
 
 ま、提案っつーことで(*´ω｀)
 
-#### [モノは複素２次元平面　そして｢後ろ｣を取り戻す](https://share.google/IpwL0PqPn8iazqA65)
+### [モノは複素２次元平面　そして｢後ろ｣を取り戻す](https://share.google/IpwL0PqPn8iazqA65)
 
 ---
 
