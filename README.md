@@ -11,6 +11,8 @@
 
 まだまだ、これからやろねー(*´ω｀)
 
+[Handa kohsen さんのnote](https://note.com/kohsen)
+
 ---
 
 そんでもって
