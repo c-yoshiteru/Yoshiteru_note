@@ -31,7 +31,7 @@ We believe that the ultimate geometry of the universe must resonate like a symph
 ## 💬 Join the Symphony (Feedback & Discussion)
 Insights from physicists, mathematicians, philosophers, musicians, Dancers poets, and dreamers are highly welcome. 暇ならね(*´▽｀*)
 
-Let us explore this multi-dimensional canvas together. Please feel free to open an **Issue** to share your thoughts, or submit a **Pull Request** if you wish to contribute to the mathematical or conceptual framework.
+Let us explore this multi-dimensional canvas together. Please feel free to open an **Issue** to share your thoughts, or submit a **Pull Request** if you wish to contribute to the mathematical or conceptual framework.この辺ねー、全然わからんのよ。勝手にやってくれやヽ(´∀｀≡´∀｀)ﾉ
 
 ---
 
