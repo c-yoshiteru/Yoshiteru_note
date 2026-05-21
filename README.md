@@ -14,7 +14,7 @@
 
 ## 🌌 The Concept
 
-This repository hosts an ongoing theoretical research project exploring the mathematical structure of a four-dimensional spherical space-time ($4\text{D-}S^3$). 
+This repository hosts an ongoing theoretical research project exploring the mathematical structure of a four-dimensional spherical space-time (4D-S^3). 
 
 This is not merely a collection of rigid physics equations. This project aims to construct a grand unified perspective of existence—weaving together the objective rigor of **Mathematics and Science**, the deep conceptual inquiries of **Philosophy**, and the boundless, expressive dimensions of **Dreams, Music, and Poetry**. 
 
