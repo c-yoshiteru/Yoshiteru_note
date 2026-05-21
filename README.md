@@ -8,7 +8,7 @@
 # Yoshiteru Note: The Mathematical Foundations of 4D-S³ Space-Time　(*´ω｀)
 
 > **"Bridging the Cosmos of Equations and the Echoes of the Soul."**
-> — A theoretical sanctuary where Science, Philosophy, and Mathematics intertwine with Dreams, Music, and Poetry.
+> — A theoretical sanctuary where Science, Philosophy, and Mathematics intertwine with Dreams, Music, Dance and Poetry.
 
 ---
 
