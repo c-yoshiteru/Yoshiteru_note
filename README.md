@@ -24,7 +24,7 @@ We believe that the ultimate geometry of the universe must resonate like a symph
 * **[The Mathematical Foundations of 4D-S³ Space-Time.pdf](The%20Mathematical%20Foundations%20of%204D-S%C2%B3%20Space-Time.pdf)** - Read the full theoretical notes (PDF)
 
 ## 📌 Areas of Exploration
-* **Mathematical Physics:** Geometric and algebraic formulations of a hyperspherical ($S^3$) universe.
+* **Mathematical Physics:** Geometric and algebraic formulations of a hyperspherical (S^3) universe.
 * **Philosophical Dimensions:** The nature of time, consciousness, and existence within bounded infinity.
 * **The Aesthetics of Space-Time:** Translating the harmonics of space-time into the language of music, poetry, and the subconscious mind (dreams).
 
