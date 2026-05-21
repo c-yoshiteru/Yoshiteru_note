@@ -29,7 +29,7 @@ We believe that the ultimate geometry of the universe must resonate like a symph
 * **The Aesthetics of Space-Time:** Translating the harmonics of space-time into the language of music, poetry, and the subconscious mind (dreams).
 
 ## 💬 Join the Symphony (Feedback & Discussion)
-Insights from physicists, mathematicians, philosophers, musicians, poets, and dreamers are highly welcome. 
+Insights from physicists, mathematicians, philosophers, musicians, Dancers poets, and dreamers are highly welcome. 
 
 Let us explore this multi-dimensional canvas together. Please feel free to open an **Issue** to share your thoughts, or submit a **Pull Request** if you wish to contribute to the mathematical or conceptual framework.
 
