@@ -10,7 +10,7 @@
 数学のとこ　わからんから、ご自分でチェック頼む
 (*´ω｀)
 
-pdfファイルです
+pdfです
 
 [The Mathmatical Founditions of 4D-S^3 Space-Time](https://github.com/c-yoshiteru/Yoshiteru_note/blob/f44ff7b42effe44b1b2c478cea1127a856711d26/The%20Mathematical%20Foundations%20of%204D-S%C2%B3%20Space-Time.pdf)
 
