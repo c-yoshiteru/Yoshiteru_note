@@ -63,7 +63,7 @@ notebookLM板でーす
 
 まだまだ、これからやろねー(*´ω｀)
 
-[Handa kohsen note](https://note.com/kohsen)
+[Handa kohsen(半田　広宣) note](https://note.com/kohsen)
 
 ---
 
