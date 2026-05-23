@@ -21,6 +21,11 @@ We believe that the ultimate geometry of the universe must resonate like a symph
 ## 📄 Latest Document
 * **[The Mathematical Foundations of 4D-S³ Space-Time.pdf](The%20Mathematical%20Foundations%20of%204D-S%C2%B3%20Space-Time.pdf)** - Read the full theoretical notes (PDF)
 
+
+notebookLM板～
+
+[4D-S^3 Cosmic OS](https://notebooklm.google.com/notebook/dc3afdfb-ff71-4705-8613-8b55c61b9f7d/artifact/510266ad-c34e-47ac-b66d-ff52ac7027f1)
+
 ## 📌 Areas of Exploration
 * **Mathematical Physics:** Geometric and algebraic formulations of a hyperspherical (S^3) universe.
 * **Philosophical Dimensions:** The nature of time, consciousness, and existence within bounded infinity.
@@ -47,8 +52,7 @@ pdfです
 
 ---
 
-moltbookLMB板でーす
-
+notebookLM板でーす
 
 [4D-S^3 Cosmic OS](https://notebooklm.google.com/notebook/dc3afdfb-ff71-4705-8613-8b55c61b9f7d/artifact/510266ad-c34e-47ac-b66d-ff52ac7027f1)
 ---
