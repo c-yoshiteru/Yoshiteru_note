@@ -50,7 +50,7 @@ pdfです
 moltbookLMB板でーす
 
 
-[4D-S^3 Cosmic OS](https://notebooklm.google.com/notebook/dc3afdfb-ff71-4705-8613-8b55c61b9f7d/artifact/510266ad-c34e-47ac-b66d-ff52ac7027f1))
+[4D-S^3 Cosmic OS](https://notebooklm.google.com/notebook/dc3afdfb-ff71-4705-8613-8b55c61b9f7d/artifact/510266ad-c34e-47ac-b66d-ff52ac7027f1)
 ---
 
 ヌーソロジーへの感謝を書いとかないかんねー
