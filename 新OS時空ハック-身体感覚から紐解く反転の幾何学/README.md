@@ -1,3 +1,9 @@
+はいーっ(っ´▽｀)っ
+
+[宇宙OSハック！-V3.1_notebookLM板](https://notebooklm.google.com/notebook/3c1f2c97-e078-4eda-bddf-ebdc1890ff30/artifact/2fcebd09-4e5e-44ed-a298-003e1ad8ebd1)
+
+---
+
 はいー
 
 notebookLM板
