@@ -7,6 +7,10 @@
 
 ---
 
+はいよ。新しいの。
+[Yoshiteru-note-v1.1/Ichigeki_Gestalt](Yoshiteru-note-v1.1/Ichigeki_Gestalt)
+
+---
 # Yoshiteru Note: The Mathematical Foundations of 4D-S³ Space-Time　(*´ω｀)
 
 > **"Bridging the Cosmos of Equations and the Echoes of the Soul."**
