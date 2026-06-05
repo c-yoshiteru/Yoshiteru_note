@@ -15,6 +15,8 @@ notebookLM　ねー。スライド作った。
 
 あいよ。V.3のnotebookLMねー。
 
+一円玉が進化した、、、(*´▽｀*)
+
 [The Sphere Gestalt: Merging Noosology and Katakamuna](https://notebooklm.google.com/notebook/3afee696-4a80-4be7-86ed-01f7d20cff19/preview)
 
 あのー、自分で天才って書いてませんからねー
