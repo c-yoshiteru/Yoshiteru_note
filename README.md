@@ -6,8 +6,11 @@
 > 和式便所で出来ます～?(*´ω｀)
 
 ---
+こちらどうぞ　さあさあ　どうでしょうか。
+[Yoshiteru-note_現代物理-概要](Yoshiteru-note_現代物理-概要)
 
-はいよ。新しいの。
+---
+はいよ
 [Yoshiteru-note-v1.1/Ichigeki_Gestalt](Yoshiteru-note-v1.1/Ichigeki_Gestalt)
 
 ---
