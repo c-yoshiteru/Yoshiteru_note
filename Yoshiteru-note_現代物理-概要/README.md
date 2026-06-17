@@ -17,3 +17,9 @@ notebookLMねー
 スライド。完璧じゃねーがまあ雰囲気は伝わるやろー。
 
    (*´ω｀*) 
+
+---
+
+あいよ　第３章のnotebookねー
+
+[The Topographic Heart of the Four-Dimensional Inversion](https://notebooklm.google.com/notebook/23350071-4af1-49d1-8279-c631875c2c90/preview)
