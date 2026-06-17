@@ -26,14 +26,14 @@ notebookLMねー
 
 ---
 
-第４章。
+第４章。notebookねー
+
+[The Geometry of Zero: Integrating Spirit and Polyhedra](https://notebooklm.google.com/notebook/c531e385-46d6-4d1c-9107-51eb7d1d56fd/preview)
 
 ”霊幾何学”とかのがいいかなー。ちょいこわいかな。
 
-それと、走りすぎですかねー？
+走りすぎですかねー？
 
 たまには走りましょうよ～(*´▽｀*)
 
-　物理的の二進法では、電子なしが”1”で、ありを”0”。
-
-らしい。逆なんですよねー。
+　物理的の二進法では、電子なしが”1”で、ありを”0”。らしい。逆なんですよねー。
