@@ -37,3 +37,10 @@ notebookLMねー
 たまには走りましょうよ～(*´▽｀*)
 
 　物理的の二進法では、電子なしが”1”で、ありを”0”。らしい。逆なんですよねー。
+
+---
+
+第５章。notebook
+
+[The Fourth Dimension: Geometry of the Dual-Rotation Wave](https://notebooklm.google.com/notebook/34fc3b42-cb40-4c64-80da-c9bfccdbd110/preview)
+
