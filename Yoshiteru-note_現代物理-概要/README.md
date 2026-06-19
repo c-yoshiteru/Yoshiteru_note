@@ -1,3 +1,4 @@
+
 はいよ
 
 ご参考になれば　(*´ω｀)
@@ -14,9 +15,7 @@ notebookLMねー
 
 しかし　うーむ　もしかしたら凄いかもー
 
-スライド。完璧じゃねーがまあ雰囲気は伝わるやろー。
-
-   (*´ω｀*) 
+スライド。完璧じゃねーがまあ雰囲気は伝わるやろー。 (*´ω｀*) 
 
 ---
 
@@ -43,4 +42,12 @@ notebookLMねー
 第５章。notebook
 
 [The Fourth Dimension: Geometry of the Dual-Rotation Wave](https://notebooklm.google.com/notebook/34fc3b42-cb40-4c64-80da-c9bfccdbd110/preview)
+
+自己他者でねじれやら反転しとるんやろ。
+
+考慮に入れる、と。(*´ω｀)
+
+
+
+
 
