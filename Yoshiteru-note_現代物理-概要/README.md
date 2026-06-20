@@ -47,6 +47,13 @@ notebookLMねー
 
 考慮に入れる、と。(*´ω｀)
 
+---
+
+第６、７章　notebookねー
+
+[The Inversion Principle and the Third Dimension Matrix](https://notebooklm.google.com/notebook/f08f0c81-1701-48e9-b432-9f5b818c6eff/preview)
+
+
 
 
 
